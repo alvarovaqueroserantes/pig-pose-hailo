@@ -1,0 +1,3 @@
+hailort==4.21.0        # la versión que instalaste
+opencv-python          # solo para escritorio; en la Pi usa opencv-python-headless
+numpy
